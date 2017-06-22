@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TreasureBoxViewLib</string>
+
+    <string name="treasure_tips">尚未获取宝箱</string>
+    <string name="treasure_get">可领取奖励</string>
+    <string name="treasure_experience">%1$s/%2$s</string>
+</resources>

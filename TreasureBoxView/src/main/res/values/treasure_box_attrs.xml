@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <declare-styleable name="TreasureBoxProgressView">
+        <attr name="treasureProgressSize" format="dimension" />
+        <attr name="treasureProgressBackgroundLineColor" format="color" />
+        <attr name="treasureProgressFrontLineColor" format="color" />
+        <attr name="treasureProgressLineSize" format="dimension" />
+        <attr name="treasureProgressCenterBitmap" format="reference" />
+        <attr name="treasureProgressLightBitmap" format="reference" />
+        <attr name="treasureProgressDescribeText" format="string"/>
+        <attr name="treasureProgressDescribeSize" format="dimension" />
+        <attr name="treasureProgressDescribeColor" format="color" />
+    </declare-styleable>
+    
+</resources>
